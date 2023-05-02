@@ -21,7 +21,7 @@ function RenderEtherspot(props) {
 
   return <Etherspot 
 
-  
+
 
   
   etherspotSessionStorage={SessionStorage}
