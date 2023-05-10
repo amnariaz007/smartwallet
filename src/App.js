@@ -7,6 +7,7 @@ import {
 } from 'etherspot';
 //import { Web3Auth } from "@web3auth/modal";
 
+
 function RenderEtherspot(props) {
 
   // const web3auth = new Web3Auth({
